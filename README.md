@@ -5,5 +5,3 @@
 Para ejecutar el sistema, debes poner:
 
 ´´´npn istall react´´´´
-
-sistema de registro 2
